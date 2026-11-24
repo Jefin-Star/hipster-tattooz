@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Kora — Interior Design Studio",
+  "description": "Bespoke residential and boutique commercial interior architecture studio specializing in spatial planning, natural materiality, and turnkey execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
